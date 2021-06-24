@@ -1,0 +1,19 @@
+body {
+  background-color: #DEEDF0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 6px;
+  width: 5%;
+}
+h1 {
+  color: #005A8D;
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+}
+h3 {
+  color: #022E57;
+  font-family: Papyrus, Copperplate, fantasy;
+}
